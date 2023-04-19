@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Telepackage</string>
+    <string name="action_settings">About</string>
+    <string name="about">telepackage is an android app used to automate the tedious ussd code
+to buy ethiotelecom package.get all kind of ethiotelecom ussd services
+with just a single click of a button without passing through each ussd
+steps.
+in order to use the package you have to turn on "accessibility setting"</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="accsessibility">turn the above key on inorder to use telepackage </string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1_fragment">Tab1Fragment</string>
+    <string name="tab_2_fragment">Tab2Fragment</string>
+    <string name="tab_3_fragment">Tab3Fragment</string>
+    <string name="tab_4_fragment">Tab4Fragment</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9448071273041143/9842530883</string>
+    <string name="accessibility_service_description">to use Telepackage turn on the switch above\nቴሌፖኬጅ አፕልኬሽንን ለመጠቀም ከላይ ያለውን ቁልፍ ያብሩት</string>
+
+</resources>

@@ -1,0 +1,167 @@
+ussd 
+
+1.tikil agelgilot
+   1 le erswo
+     1 ye dimts tikil
+       1.eletawi
+          1 be sost birr 12 dekika----{1;1;2;1;1;1} gift {1;2;2;1;1}
+          2 be 5 birr 20 dekika  {1;1;2;1;2;1}   gift {1;2;2;1;2}   |---lemaregaget 1 yichanu
+          3 be 10 birr 45 dekika-------{1;1;2;1;3;1} gift {1;2;2;1;3}
+       2.samintawi
+          1.be 15 birr 70 dekika--------{1;1;2;2;1;1} gift {1;2;2;2;1}
+          2.be 20 birr 100 dekika  {1;1;2;2;2;1}    gift {1;2;2;2;2}  |----
+          3.be 25 birr 130 dekika--------{1;1;2;2;3;1} gift {1;2;2;2;3}
+       3.werhawi
+          1.be 35 birr 125 dekika {1;1;2;3;1;1}-------| gift {1;2;2;3;1}
+          2.be 50 birr 185 dekika {1;1;2;3;2;1}      |  gift {1;2;2;3;2}
+          3.be 95 birr 375 dekika {1;1;2;3;3;1}      |----- gift {1;2;2;3;3}
+          4.be 120 birr500 dekika  {1;1;2;3;4;1}     | gift {1;2;2;3;4}
+          5.be 200 birr 1000 dekika {1;1;2;3;5;1}    |  gift {1;2;2;3;5}
+          6.be 380 birr 2000 dekika{1;1;2;3;6;1}-----|  gift {1;2;2;3;6}
+       4.ye lelit
+         1.be 3 birr 60 dekika {1;1;2;4;1;1}-----| gift {1;2;2;4;1}
+                                                 |-----
+         2.be 6 birr 140 dekika {1;1;2;4;2;1}----| gift {1;2;2;4;2}
+     2 internet tikil
+        1.eletawi
+           1.be 3 birr 35 mg {1;1;3;1;1;1} gift {1;2;3;1;1}
+           2.be 5 birr 75 mg  {1;1;3;1;2;1} gift {1;2;3;1;2}
+           3.be 12 birr 200 mg {1;1;3;1;3;1} gift {1;2;3;1;3}
+           4.be 25 birr 500 mg {1;1;3;1;4;1} gift {1;2;3;1;4}
+        2.samintawi
+           1.be 24 birr 300 mg {1;1;3;2;1;1} gift {1;2;3;2;1}
+           2.be 38 birr 600 mg {1;1;3;2;2;1} gift {1;2;3;2;2}
+           3.be 56 birr 1 giga bite {1;1;3;2;3;1}  gift {1;2;3;2;3}
+        3.werhawi
+            1.be 35 birr 500 mg {1;1;3;3;1;1} gift {1;2;3;3;1}
+            2.be 60 birr 1 giga bite {1;1;3;3;2;1} gift {1;2;3;3;2}
+            3.be 105 birr 2 giga bite {1;1;3;3;3;1} gift {1;2;3;3;3}
+            4.be 200 birr 4 giga bite {1;1;3;3;#;4;1} gift {1;2;3;3;#;4}
+            5.be 420 birr 4 giga bite  {1;1;3;3;#;5;1} gift  {1;2;3;3;#;5}
+        4.ye lelit
+           1.be 3 birr 70 mg {1;1;3;4;1;1} gift {1;2;3;4;1}
+           2.be 5 birr 160 mg {1;1;3;4;2;1} gift {1;2;3;4;2}
+           3.be 7 birr 300 mg {1;1;3;4;3;1} gift {1;2;3;4;3}
+     3 dimtsi ena internet
+         1.eletawi
+             1.be 12 birr ye 12 dekika,160mg,ena 10 melekit {1;1;4;1;1;1} gift {1;2;4;1;1}
+             2.be 33 bir 28 dekika,590 mg,ena 10 melkit {1;1;4;1;2;1} gift {1;2;4;1;2}
+         2.samintawi
+            1.be 50 birr 70 dekika,590mg,20 melkit {1;1;4;2;1;1} gift {1;2;4;2;1}
+            2.be 76 birr 100 dekika,1giga bite,ena 20 melekit {1;1;4;2;2;1} gift {1;2;4;2;2}
+         3.werhawi
+           1.be 140 birr 125 dekika,2 gigabit ,ena 50 melekit {1;1;4;3;1;1} gift {1;2;4;3;1}
+           2.be 200 birr 375 dekika,2 gigabit ena 50 melekit {1;1;4;3;2;1}  gift {1;2;4;3;2}
+           3.be 1663 birr 1250 dekika,yaltegedebe internet ena 50 melekit {1;1;4;3;3;1} gift {1;2;4;3;3}
+     4 flexi tikil
+         1.eletawi
+            1.be 15 birr 390 flexi {1;1;5;1;1;1} gift {1;2;5;1;1}
+         2.samintawi
+            1.be 50 birr 1320 birr {1;1;5;2;1;1} gift {1;2;5;2;1}
+         3.werhawi
+            1.be 100 birr 2280 flexi {1;1;5;3;1;1} gift {1;2;5;3;1}
+     5 yaltegedebe premium agelgilot
+      1. eletawi
+
+                  1.be 12 birr le 1 seat      {2;1;1;1;1} gift {2;2;1;1;1}
+                  2.be 55 birr le 1 ken        {2;1;2;1;1} gift {2;2;2;1;1}
+                  3.be 35 birr yaltegedebe dimtsi {2;1;3;1;1} gift {2;2;3;1;1}
+
+       2.samintawi
+           1.yaltegedebe internet ena melekit be 300 birr le samint {1;1;6;1;1;1} gift {1;2;6;1;1}
+
+       3.werhawi
+           1.be 999 birr yaltegedebe dimtsi {1;1;6;2;1;1} gift {1;1;6;2;1}
+           2.be 999 birr yaltegedebe internet {1;1;6;2;2;1} gift {1;1;6;2;2}
+           3.be 1700 birr yaltegedebe dimts ena internet {1;1;6;2;3;1} gift {1;2;6;2;3}
+           4.be 2330 birr yaltegedebe dimtsi,internet,melkit,ena alem akef 100 dekika ena 50 {1;1;6;2;4;1} gift {1;2;6;2;4}
+               melkit
+
+
+
+     7 regim gize tikil
+        1.rub amet tikil
+           1.be 650 birr 555 dekika,12 gigbite,{1;1;7;1;1;1} gift {1;2;7;1;1}
+           2.be 860 birr 1500 dekika 12 gigabit ena 150 melekit {1;1;7;1;2;1} gift {1;2;7;1;2}
+           3.be 2620 birr 555 dekika yaltegedebe data ena 150 melkit {1;1;7;1;3;1} gift {1;2;7;1;3}
+           4.be 3470 yaltegedebe dimtsi 12gigabit ena 150 melkit {1;1;7;1;4;1} gift {1;2;7;1;4}
+           5.be 4130 yaltegedebe dmtsi,internet,melekit  {1;1;7;1;5;1} forgift {1;2;7;1;5}
+        2.ametawi tikil
+            1.10,200 yaltegedebe dimts internet ,melket {1;1;7;2;1;1} for gift {1;2;7;2;1}
+            2.5995 yaltegedebe dimts ena melkit {1;1;7;2;2;1} for gift {1;2;7;2;2}
+            3.5995 yaltegedebe internet ena melkit {1;1;7;2;3;1}  for gift {1;2;7;2;3}
+
+      8.international voice package
+     	 for selected 10 countries
+    			daily
+      29.90 birr for 5 minute selected 10 countries  {1;1;8;1;1;1;1} gift {1;2;8;1;1;1}
+               weekly
+       74.90 birr for 15 minute selected 10 countries {1;1;8;1;2;1;1} gift {1;2;8;1;2;1}
+
+          monthly
+      149 birr for 150 minute selected 10 countries {1;1;8;1;3;1;1} gift {1;2;8;1;3;1}
+
+    	 for selected 11 countries
+    			daily
+      37 birr for 5 minute selected 11 countries {1;1;8;2;1;1;1} gift {1;2;8;2;1;1}
+               weekly
+      104 birr for 15 minute selected 11 countries {1;1;8;2;2;1;1} gift {1;2;8;2;2;1}
+
+          monthly
+      999 birr for 150 minute selected 11 countries {1;1;8;2;3;1;1} gift {1;2;8;2;3;1}
+
+     9 maleda tikil
+       1.be hulet birr 8 dekika ena 5 melekt {1;1;9;1;1} gift {1;2;9;1}
+       2.be hulet birr 25 mgabit ena 5 melekit {1;1;9;2;1} gift {1;2;9;2}
+     10 ye melekit tikil
+         1.eletawi
+            1.be 2 birr 20 melkit {1;1;10;1;1;1} gift {1;2;10;1;1}
+            2.be 3 birr 40 melkit {1;1;10;1;2;1} gift {1;2;10;1;2}
+            3.be 5 birr 80 melkit {1;1;10;1;3;1} gift {1;2;10;1;3}
+         2.samintawi
+             1.be 10 birr 165 melkit {1;1;10;2;1;1} gift {1;2;10;2;1}
+             2.be 15 birr 333 melkit {1;1;10;2;2;1} gift {1;2;10;2;2}
+         3.werhawi
+             1.be 30 birr 656 melkit {1;1;10;3;1;1} gift {1;2;10;3;1}
+             2.be 50 birr 1313 melkit {1;1;10;3;2;1} gift {1;2;10;3;2}
+   2 sitota lemaberket
+     1 ye dimts tikil
+     2 internet tikil
+     3 dimtsi ena internet
+     4 flexi tikil
+     5 yaltegedebe premium agelgilot
+     6 eletawi yaltegedebe dimts tikil
+     7 regim gize tikil
+     8 alem akef yedimts tikil
+     9 maleda tikil
+     10 ye melekit tikil
+
+2. 1 birr tikil
+    1.le erswo
+      1.be 1 birr 4 dekika le 1 seat {1;1;1;1;1} gift {1;2;1;1}
+      2.be 1 birr 20 mg le 1 seat {1;1;1;2;1} gift {1;2;1;2}
+      3.be 1 birr 50 achir melekt le 1 seat {1;1;1;3;1} gift {1;2;1;3}
+   2.sitota le maberket
+       1.be 1 birr 4 dekika le 1 seat##########
+       2.be 1 birr 20 mg le 1 seat            ##### yemilakletin denbegna silk kutir.
+       3.be 1 birr 50 achir melekt le 1 seat###
+
+3.techemari agelgilot---------- not working
+
+4.kuankua le mekeyer
+  1. le amargna
+  2. for english
+  3. afan oromo
+  4 ni tigrigna
+  5 af somali
+
+5.yene agelgilot
+     1.kedenbegninet mizgeba lemewtat
+     2.tikil le mastelalef
+     3.tikilwon yikeyiru
+         1.ke internet wede dimtsi
+         2.ke internet wede achir melekte
+         3.ke dimts wede internet
+         4.ke dimtse wede achir melekt
+         5.ke achir melekt wede internet
+         6.ke achir melkt wede demtse

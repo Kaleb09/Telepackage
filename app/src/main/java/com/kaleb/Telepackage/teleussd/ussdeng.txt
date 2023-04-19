@@ -1,0 +1,154 @@
+      tab1
+interdaily
+  3 birr for 35 MB
+  5 birr for 75 MB
+  12 birr for 200 MB
+  25 birr for 500 MB
+interweekly
+   24 birr for weekly 300 MB
+   38 birr for weekly 600 MB
+   56 birr for weekly 1 GB
+
+intermonthly
+    35 birr for monthly 500MB
+    60 birr for monthly 1GB
+    105 birr for monthly 2GB
+    200 birr for monthly 4GB
+    420 birr for monthly 10GB
+internight
+   3 birr for night 70  MB
+   5 birr for night 160 MB
+   7 birr for night 300 MB
+
+          tab2
+voice daily
+   3 birr for 12 minute voice daily
+   5 birr for 20 minute voice daily
+   10 birr for 45 minute voice daily
+voice weekly
+     15 birr for 70 minute voice weekly
+     20 birr for 100 minute voice weekly
+     25 birr for 130 minute voice weekly
+voice monthly
+     35 birr for 125 miniute voice monthly
+     50 birr for 185 miniute voice monthly
+     95 birr for 375 miniute voice monthly
+     120 birr for 500 miniute voice monthly
+     200 birr for 1000 miniute voice monthly
+     380 birr for 2000 miniute voice monthly
+voice night
+      3 birr for 60 miniute voice night
+      6 birr for 140 miniute voice night
+         
+      TAB3
+
+      sms package
+       daily
+ 2 birr for 20 sms 
+ 3 birr for 40 sms
+ 5 bir for 80 sms
+       weeekly
+ 10 birr for 165 sms
+ 15 birr for 333 sms
+    monthly
+30 birr for 656 sms
+50 birr for 1313 sms
+          Tab4
+		  
+   voice and internet
+
+		daily
+
+ 12 birr for 12 minute voice,160 MB  and 10 sms
+ 33 birr for 28 minute voice,590 MB and  10 sms
+         weekly
+50 birr for 70 minute voice,590 MB and 20 sms	
+76 birr for 100 minute voice, 1 GB  and 20 sms
+         monthly
+140 birr for 125 minute voice,2 GB  and 50 sms		
+200 birr for 375 minute voice, 2 GB  and 50 sms
+1663 birr for 1250 minute , unlimited internet and 50 sms
+
+                Tab5
+				
+                 flexi package
+		    daily
+ 15 birr for 390 flexi package
+            weekly 
+ 50 birr for 1320 flexi package		
+           monthly
+ 100 birr for 2280 flexi package	
+ 
+             Tab 6
+			 
+	 international voice package
+ 	 for selected 10 countries
+			daily
+  29.90 birr for 5 minute selected 10 countries
+           weekly
+   74.90 birr for 15 minute selected 10 countries
+
+      monthly
+  149 birr for 150 minute selected 10 countries
+
+	 for selected 11 countries
+			daily
+  37 birr for 5 minute selected 11 countries
+           weekly
+  104 birr for 15 minute selected 11 countries
+
+      monthly
+  999 birr for 150 minute selected 11 countries
+           
+		   Tab7
+			
+	   morning package
+	   
+ 2 birr for 8 minute voice and 5 sms
+ 2 birr for 25 MG internet and 5 sms
+        
+		Tab 8
+		
+		 long term package
+    quarter year package
+   650 birr for 555 minute and 12 GB
+   860 birr for 1500 minute,12 GB and 150 sms
+   2620 birr for 555 minute ,unlimited internet and 150 sms
+   3470 birr for unlimited voice,12 GB and 150 sms
+   4130 birr for unlimited voice ,internet,sms
+             yearly package
+   10,200 birr for unlimited voice,internet,sms
+   5995 birr for unlimited voice and sms
+   5995 birr for unlimited internet and sms
+          
+		  Tab9
+	 
+	 unlimited premium service
+	 
+              daily
+       12 birr for 1 hour Unlimited internet
+        55 birr for Daily Unlimited internet
+      35 birr for unlimited voice
+               weeekly
+   300 birr for unlimited internet and sms
+             monthly
+999 birr for unlimited voice 
+999 birr for unlimited internet
+1700 birr for unlimited voice and internet
+2330 birr for unlimited voice,internet,sms and international 100 minute and 50 sms
+           
+         Tab 10		   
+        
+     1 birr package
+1 birr for 4 minute voice for 1 hour
+1 birr for 20 MG for 1 hour
+1 birr for 50 sms for 1 hour
+
+      change package
+ from internet to voice
+ from internet to sms
+ from voice to internet
+ from voice to sms
+ from sms to internet
+ from sms to voice
+       	

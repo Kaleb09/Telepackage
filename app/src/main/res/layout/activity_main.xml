@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/replace"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/appbarback"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="2dp"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:elevation="0dp">
+
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@drawable/tabbotom"
+            android:scrollbarThumbHorizontal="@drawable/appbarback"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/switchButton"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_gravity="right"
+                android:elevation="40dp"
+                android:thumb="@drawable/thumb_layerlist"
+                app:showText="false"
+                app:switchMinWidth="90dp"
+                app:track="@drawable/track_backgrounds" />
+
+            <TextView
+                android:id="@+id/language"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:background="@color/colorPrimary"
+                android:text="En"
+                android:textColor="@color/tabi"
+                android:textSize="20sp"
+                android:visibility="visible" />
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardlarge"
+                android:layout_width="120dp"
+                android:layout_height="36dp"
+                android:layout_gravity="right"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="2dp"
+                android:visibility="gone"
+                app:cardBackgroundColor="#FFFFFF"
+                app:cardCornerRadius="18dp"
+                app:cardElevation="15dp"
+                app:contentPadding="3dp">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cardsmall"
+                    android:layout_width="58dp"
+                    android:layout_height="30dp"
+                    app:cardBackgroundColor="@color/colorPrimary"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="15dp" />
+            </androidx.cardview.widget.CardView>
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <!--TextView
+              android:id="@+id/texttemp"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="TextView" /-->
+
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/tabbotom"
+            android:paddingLeft="1dp"
+            android:paddingTop="5dp"
+            android:paddingRight="1dp"
+            android:paddingBottom="0dp"
+            app:tabBackground="@drawable/tabmain"
+            app:tabGravity="fill"
+            app:tabIndicatorHeight="0dp"
+            app:tabMinWidth="100dp"
+            app:tabMode="scrollable"
+            app:tabSelectedTextColor="@color/tab1"
+            app:tabTextColor="@color/white" />
+
+        <!--TextView
+              android:id="@+id/textViewoc"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="TextView" />
+
+          <Button
+              android:id="@+id/button3"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:onClick="buttonStart"
+              android:text="Button" /-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/card"
+            android:orientation="horizontal">
+
+            <!--com.google.android.gms.ads.AdView
+                  android:id="@+id/adView"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:background="@color/ic_launcher_background"
+                  app:adSize="BANNER"
+                  app:adUnitId="@string/banner_ad_unit_id" /-->
+        </LinearLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#14008FD5"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <include layout="@layout/content_main" />
+    </androidx.viewpager.widget.ViewPager>
+
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layoutb"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/tabbotom"
+        android:elevation="16dp"
+        app:tabBackground="@drawable/tabbottomback"
+        app:tabGravity="fill"
+        app:tabIndicatorHeight="0dp"
+        app:tabSelectedTextColor="@color/tab2"
+        app:tabTextColor="@color/white" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="55dp"
+        android:backgroundTint="@color/tab1"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/balance" />
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

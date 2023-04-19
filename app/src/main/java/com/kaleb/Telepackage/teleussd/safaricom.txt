@@ -1,0 +1,75 @@
+*705# fill balance
+*777# buy package
+*704# remainning balance
+700 call servie
+
+packages
+1 le dmts
+     1 leras
+        1 ande lemegzat
+            1 15 dekika+5mb be 5 birr
+            2 25 dekika+10mb be 10 birr
+            3 60 dekika+20mb be 20 birr
+            4 185 dekika+50mb be 50 birr
+            5 400 dekika+100mb be 100 birr
+            6 1000 dekika+200mb be 200 birr
+        2 be yekenu mitades
+
+     2 le stota
+     3 kerihisab
+2 le internet ena melkit
+     1 ye internet
+        1 leras
+            1 ande lemegzat
+                        1 60 mb be 5 birr
+                        2 120 mb be 10 birr
+                        3 300 mb be 20 birr
+                        4 1 gb be 50 birr
+                        5 2 gb be 100 birr
+                        6 6 gb be 250 birr
+                        7 15 gb be 500 birr
+                        8 35 gb be 750 birr
+                        9 100 gb be 1000 birr
+            2 be yekenu mitades
+
+        2 le stota
+        3 kerihisab
+     2 ye melket
+        1 leras
+             1 ande lemegzat
+                          1 50 melkt be 5 birr
+                          2 120 melkt be 10 birr
+                          3 300 melkt be 20 birr
+                          4 800 melkt be 30 birr
+                          5 1500 melkt be 50 birr
+             2 be yekenu mitades
+
+               2 le stota
+               3 kerihisab
+     3 timir(huletunm)....comming soon
+
+     4 4G wifi
+     5 internet atekakem lemekotater
+         ke tikil wuchi internet lemetekem
+            1 le masgemer
+            2 le makuaret
+
+     6 internet be dekika lemetekem
+           ke tikil wuchi internet be dekika lemetekem
+                      1 le masgemer
+                      2 le makuaret
+4 le leloch agelgilotoch
+    1.alem akef tiri
+        1 alem akef tri temenoch
+        1 alem akef tri tikiloch
+    2 roaming
+        1 roaming tarif lemawek
+        1 alem akef roaming mikroch
+    3 puk lemawek
+        1ye
+    4 kuankua lemekeyer
+    5 ebakwo ydewlulgn(call meback)
+    6 silkwon lemawek
+    7 yaltesaka tiri
+5 hisabwon lemawek
+6 denbegnnet mizgeba lemakuaret

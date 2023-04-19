@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kaleb.tablayoutdemo.com.ebookfrenzy.Telepackage.MainActivity">
+    <item
+    android:id="@+id/action_settings"
+        android:icon="@drawable/aboutt"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/simcard"
+        android:icon="@drawable/simcard"
+        android:orderInCategory="100"
+        android:title="Sim1" />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:orderInCategory="100"
+        android:title="share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/rate"
+        android:orderInCategory="100"
+        android:title="Rate us"
+        app:showAsAction="never" />
+
+
+    <!--item
+        android:id="@+id/ethsaf"
+        android:icon="@drawable/safari"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Ethiotelecom" /-->
+    <!--item
+        android:id="@+id/update"
+        android:icon="@drawable/update"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="update" /-->
+</menu>

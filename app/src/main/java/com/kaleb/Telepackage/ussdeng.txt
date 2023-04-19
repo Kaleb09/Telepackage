@@ -1,0 +1,36 @@
+interweekly
+   24 birr for weekly 300mg
+   38 birr for weekly 600mg
+   56 birr for weekly 1 GB
+
+intermonthly
+    35 birr for monthly 500mg
+    60 birr for monthly 1GB
+    105 birr for monthly 2GB
+    200 birr for monthly 4GB
+    420 birr for monthly 10GB
+internight
+   3 birr for night 70 mg 
+   5 birr for night 160 mg
+   7 birr for night 300 mg
+
+
+voice daily
+   3 birr for 12 minute voice daily
+   5 birr for 20 minute voice daily
+   10 birr for 45 minute voice daily
+voice weekly
+     15 birr for 70 minute voice weekly
+     20 birr for 100 minute voice weekly
+     25 birr for 130 minute voice weekly
+voice monthly
+     35 birr for 125 miniute voice monthly
+     50 birr for 185 miniute voice monthly
+     95 birr for 375 miniute voice monthly
+     120 birr for 500 miniute voice monthly
+     200 birr for 1000 miniute voice monthly
+     380 birr for 2000 miniute voice monthly
+voice night
+      3 birr for 60 miniute voice night
+      6 birr for 140 miniute voice night
+
