@@ -22,6 +22,7 @@ import java.util.Objects;
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.RecyclerItemViewHolder> {
     private ArrayList<MyListData> myList; forothersdialog cd; SharedPreferences sharedPreferences;
     int mLastPosition = 0; private ClickListner mListner;String s;LoginDataBaseAdapter loginDataBaseAdapter;
+    RecyclerItemViewHolder preholder;
     public RecyclerAdapter(ArrayList<MyListData> myList,ClickListner listner) {
         this.myList = myList;
         mListner=listner;
@@ -69,16 +70,20 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.Recycl
                 myListData.setTag1("kalebt");
               //  loginDataBaseAdapter.updatetotable(myListData, loginDataBaseAdapter.tabledaily,String.valueOf(position+1));
 
-                Toast.makeText(v.getContext(), "id"+loginDataBaseAdapter.get(loginDataBaseAdapter.tabledaily).get(position).getId()+" "+myList.get(position).getStep()+" and "+myList.get(position).getStepgift()+" and "+
-                        myList.get(position).getCheck(), Toast.LENGTH_SHORT).show();
-
-
+               // Toast.makeText(v.getContext(), "id"+loginDataBaseAdapter.get(loginDataBaseAdapter.tabledaily).get(position).getId()+" "+myList.get(position).getStep()+" and "+myList.get(position).getStepgift()+" and "+myList.get(position).getCheck(), Toast.LENGTH_SHORT).show();
                 if( holder.linearLayout.getVisibility()==View.VISIBLE){
-                holder.linearLayout.setVisibility(View.GONE);
+                    holder.linearLayout.setVisibility(View.GONE);
                 }
-              else if(holder.linearLayout.getVisibility()==View.GONE){
-                  holder.linearLayout.setVisibility(View.VISIBLE);
-              }
+                else if(holder.linearLayout.getVisibility()==View.GONE){
+                    holder.linearLayout.setVisibility(View.VISIBLE);
+                }
+                if(preholder!=null&&holder!=preholder) {
+                    preholder.linearLayout.setVisibility(View.GONE);
+                }
+                Log.d("TAG", String.valueOf(holder.linearLayout.getVisibility())+"and"+
+                        String.valueOf(View.VISIBLE)+"gone"+ String.valueOf(View.GONE));
+
+                preholder=holder;
 
             }
         });
