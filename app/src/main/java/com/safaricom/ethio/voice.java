@@ -1,4 +1,4 @@
-package com.kaleb.ethio;
+package com.safaricom.ethio;
 
 import android.content.Context;
 import android.content.SharedPreferences;
