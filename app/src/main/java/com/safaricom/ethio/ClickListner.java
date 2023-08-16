@@ -1,6 +1,6 @@
 package com.kaleb.ethio;
 
-public interface ClickListner {
+public interface ClickListner 
     void toast();
     void data(String data, String check);
     void dialog(String step, String check);
